@@ -1,6 +1,8 @@
-package FactoryDesignPattern;
+package FactoryDesignPattern.ImplementationsOfShapeInterface;
 
-public class Circle implements Shape{
+import FactoryDesignPattern.Shape;
+
+public class Circle implements Shape {
     private double radius;
 
     public void setRadius(double radius) {

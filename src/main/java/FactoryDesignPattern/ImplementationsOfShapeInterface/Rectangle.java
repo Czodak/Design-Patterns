@@ -1,6 +1,8 @@
-package FactoryDesignPattern;
+package FactoryDesignPattern.ImplementationsOfShapeInterface;
 
-public class Rectangle implements Shape{
+import FactoryDesignPattern.Shape;
+
+public class Rectangle implements Shape {
 
     private double length;
     private double width;

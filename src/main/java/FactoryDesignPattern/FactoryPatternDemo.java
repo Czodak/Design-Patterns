@@ -1,5 +1,8 @@
 package FactoryDesignPattern;
 
+import FactoryDesignPattern.ImplementationsOfShapeInterface.Circle;
+import FactoryDesignPattern.ImplementationsOfShapeInterface.Rectangle;
+
 public class FactoryPatternDemo {
 
     public static void tryOutFactoryPattern(){
