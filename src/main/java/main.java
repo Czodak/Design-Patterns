@@ -1,6 +1,7 @@
 import BuilderDesignPattern.BuilderPatternDemo;
 import FactoryDesignPattern.FactoryPatternDemo;
 import ObserverDesignPattern.ObserverDesignPatternDemo;
+import StrategyDesignPattern.StrategyDesignPatternDemo;
 
 public class main {
 
@@ -11,5 +12,7 @@ public class main {
         ObserverDesignPatternDemo.tryOutObserver();
         System.out.println("\nBUILDER DESIGN PATTERN ");
         BuilderPatternDemo.tryOutBuilderPattern();
+        System.out.println("\nSTRATEGY DESIGN PATTERN");
+        StrategyDesignPatternDemo.tryOutStrategyDesignPattern();
     }
 }
