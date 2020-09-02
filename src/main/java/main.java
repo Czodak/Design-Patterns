@@ -1,3 +1,4 @@
+import BuilderDesignPattern.BuilderPatternDemo;
 import FactoryDesignPattern.FactoryPatternDemo;
 import ObserverDesignPattern.ObserverDesignPatternDemo;
 
@@ -8,5 +9,7 @@ public class main {
         FactoryPatternDemo.tryOutFactoryPattern();
         System.out.println("\nOBSERVER DESIGN PATTERN ");
         ObserverDesignPatternDemo.tryOutObserver();
+        System.out.println("\nBUILDER DESIGN PATTERN ");
+        BuilderPatternDemo.tryOutBuilderPattern();
     }
 }
