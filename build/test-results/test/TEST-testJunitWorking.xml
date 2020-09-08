@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="testJunitWorking" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-08-29T20:04:24" hostname="DESKTOP-GS56AG0" time="0.014">
-  <properties/>
-  <testcase name="testAdd()" classname="testJunitWorking" time="0.014"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
