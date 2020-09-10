@@ -6,9 +6,9 @@ Example implementation of most popular/important design patterns.
 * Builder
 * Factory
 * Strategy
+* State
 
 
 # To implement :
 * Adapter
-* State
 * and much more :) 
